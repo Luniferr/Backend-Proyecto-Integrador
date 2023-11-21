@@ -1,0 +1,10 @@
+{
+    "service":"gmail",
+    "auth":{
+        "type":"OAuth2",
+        "user":"proyectosaciarte@gmail.com",
+        "clientId":"861024964771-hvakr1aet2tcpptj2lh2r1abbtnbvh17.apps.googleusercontent.com",
+        "clientSecret":"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",
+        "refreshToken":"1//047R4aGjPz_gHCgYIARAAGAQSNwF-L9IrOGhG90lJtpQx1zqiaZuayXWFkv0eTugBbs1RjIlxnMQMIK3C-b6AI6DVi9_9ntmj95s"
+    }
+}
