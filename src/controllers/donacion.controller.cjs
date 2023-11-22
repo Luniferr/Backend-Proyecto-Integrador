@@ -1,4 +1,4 @@
-const Donacion = require("../../models/ModeloDonacion/modelo.donacion.cjs");
+const Donacion = require("../models/modelo.donacion.cjs");
 
 const guardarDonacion = async (req, res) => {
   try {
