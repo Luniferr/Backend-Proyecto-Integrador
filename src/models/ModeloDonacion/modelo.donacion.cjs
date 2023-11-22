@@ -5,7 +5,6 @@ const { Schema } = mongoose;
 const donacionSchema = new Schema({
     montoDonacion: Number,
     destinoDonacion: String,
-    
 
 });
 
