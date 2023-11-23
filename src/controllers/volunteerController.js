@@ -7,8 +7,6 @@ const { validateRut } = require("rutlib");
 const { Types } = require("mongoose");
 const { body, validationResult } = require("express-validator");
 
-
-
 const mailProyectoSaciarte = async (callback) => {
   console.log("Credenciales del proyecto:", accountTransport);
 
@@ -83,7 +81,6 @@ const sendCancellationEmail = (emailTransporter, userEmail) => {
     text: json.text,
   });
 };
-
 
 const crearVolunteer = async (req, res) => {
   const { name, rut, age, email, phone, ocupation, residence, motivation } =
@@ -196,7 +193,7 @@ const editarVolunteer = async (req, res) => {
       error: error.message,
     });
   }
-}
+};
 
 const obtenerVolunteerById = async (req, res) => {
   const { idvolunteer } = req.params;

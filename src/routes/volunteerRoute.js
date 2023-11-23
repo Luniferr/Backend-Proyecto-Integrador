@@ -1,5 +1,5 @@
 const volunteerRoute = require("express").Router();
-const { validateObjectId } = require("../middleware/validationMiddleware")
+const { validateObjectId } = require("../middleware/validationMiddleware");
 
 const {
   crearVolunteer,
@@ -9,10 +9,20 @@ const {
 } = require("../controllers/volunteerController");
 
 volunteerRoute.post("/volunteer-register", crearVolunteer);
-volunteerRoute.put("/update-volunteer/:idvolunteer", validateObjectId, editarVolunteer);
-volunteerRoute.get("/volunteer-list/:idvolunteer",validateObjectId, obtenerVolunteerById);
-volunteerRoute.delete("/delete-volunteer/:idvolunteer", validateObjectId, eliminarVolunteer);
-
-
+volunteerRoute.put(
+  "/update-volunteer/:idvolunteer",
+  validateObjectId,
+  editarVolunteer
+);
+volunteerRoute.get(
+  "/volunteer-list/:idvolunteer",
+  validateObjectId,
+  obtenerVolunteerById
+);
+volunteerRoute.delete(
+  "/delete-volunteer/:idvolunteer",
+  validateObjectId,
+  eliminarVolunteer
+);
 
 module.exports = volunteerRoute;
