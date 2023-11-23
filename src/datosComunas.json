@@ -1,0 +1,383 @@
+[  
+    {
+        "comuna": "Region_Metropolitana",
+        "habitantes": "7.112.808",
+        "municipalidad": "",
+        "donaciones": ["selecciona una comuna",
+        "selecciona una comuna"
+    ]
+
+    },
+    {
+        "comuna": "Padre_Hurtado",
+        "habitantes": "63.250",
+        "municipalidad": "https://portal.mph.cl/",
+        "donaciones": [
+            "Red de Ayuda Padre Hurtado",
+            "Hogar Bautista De Ancianas"
+        ]
+
+    },
+    {
+        "comuna": "Maipú",
+        "habitantes": "521.627",
+        "municipalidad": "https://www.municipalidadmaipu.cl/",
+        "donaciones": [
+            "Fundación Sarita Solidaria",
+            "Comunidad terapéutica Horizonte",
+            "Comunidad terapéutica Ryev",
+            "Esperanza Nuestra"
+        ]
+
+    },
+    {
+        "comuna": "Cerrillos",
+        "habitantes": "80.832",
+        "municipalidad": "https://www.mcerrillos.cl/home/",
+        "donaciones": [
+            "Fundación 100% Terreno",
+            "Amor al Prójimo"
+
+        ]
+
+    },
+    {
+        "comuna": "Estación_Central",
+        "habitantes": "147.041",
+        "municipalidad": "https://www.municipalidaddeestacioncentral.cl/",
+        "donaciones": [
+            "Olla Rabbani"
+
+        ]
+
+    },
+    {
+        "comuna": "Pudahuel",
+        "habitantes": "230.293",
+        "municipalidad": "https://www.mpudahuel.cl/",
+        "donaciones": [
+            "Microbanco de Alimentos de Pudahuel",
+            "Fraternidad Las Viñas"
+        ]
+
+    },
+    {
+        "comuna": "Lo_Prado",
+        "habitantes": "96.249",
+        "municipalidad": "https://loprado.cl/",
+        "donaciones": [
+            "Fundación Voluntarios Lo Prado"
+        ]
+
+    },
+    {
+        "comuna": "Cerro_Navia",
+        "habitantes": "132.622",
+        "municipalidad": "https://www.cerronavia.cl/",
+        "donaciones": [
+            "Banco de Alimentos Cerro Navia",
+            "Fundación Nissi",
+            "Yo Soy otro tú, tú eres otro yo",
+            "Olla común Violeta Parra",
+            "Cepam Ong"
+
+        ]
+
+    },
+    {
+        "comuna": "Santiago",
+        "habitantes": "404.495",
+        "municipalidad": "https://www.munistgo.cl/",
+        "donaciones": [
+            "Alimentos Libres",
+            "Abc Prodeín",
+            "Fundación María Luisa De Moreno",
+            "Camuf"
+        ]
+
+    },
+    {
+        "comuna": "Renca",
+        "habitantes": "147.151",
+        "municipalidad": "https://renca.cl/",
+        "donaciones": [
+            "Mujeres De Esfuerzo",
+            "Un Kilo De Ayuda"
+
+        ]
+
+    },
+    {
+        "comuna": "Quinta_Normal",
+        "habitantes": "110.026",
+        "municipalidad": "https://www.quintanormal.cl/",
+        "donaciones": [
+            "Hermanitas De Los Pobres"
+        ]
+
+    },
+    {
+        "comuna": "Recoleta",
+        "habitantes": "157.851",
+        "municipalidad": "https://www.cerrillos.cl/",
+        "donaciones": [
+            "Fundación gente de la calle",
+            "Fundación Santa Clara"
+        ]
+
+    },
+    {
+        "comuna": "Independencia",
+        "habitantes": "100.281",
+        "municipalidad": "https://www.independencia.cl/",
+        "donaciones": [
+            "Fundación Las Rosas",
+            "Casa de Acogida la Esperanza"
+
+        ]
+
+    },
+    {
+        "comuna": "Quilicura",
+        "habitantes": "210.410",
+        "municipalidad": "https://ww2.muniquilicura.cl/",
+        "donaciones": [
+            "Quilicura Humanitario"
+        ]
+
+    },
+    {
+        "comuna": "Conchalí",
+        "habitantes": "126.955",
+        "municipalidad": "https://www.conchali.cl/2022/",
+        "donaciones": [
+            "ONG un abrazo de acogida"
+        ]
+
+    },
+    {
+        "comuna": "San_Bernardo",
+        "habitantes": "301.313",
+        "municipalidad": "https://www.sanbernardo.cl/",
+        "donaciones": [
+            "Mission Golden",
+            "Manos Que Salvan",
+            "Mingako",
+            "Comedor Solidario Manos Que Salvan"
+        ]
+
+    },
+    {
+        "comuna": "El_Bosque",
+        "habitantes": "162.505",
+        "municipalidad": "https://www.municipalidadelbosque.cl/",
+        "donaciones": [
+            "Ecofemme",
+            "Ceinso"
+        ]
+
+    },
+    {
+        "comuna": "La_Cisterna",
+        "habitantes": "90.119",
+        "municipalidad": "https://www.cisterna.cl/#/",
+        "donaciones": [
+            "Hogar niño Jesus"
+        ]
+
+    },
+    {
+        "comuna": "Lo_Espejo",
+        "habitantes": "98.804",
+        "municipalidad": "https://www.loespejo.cl/",
+        "donaciones": [
+            "Creando Caminos",
+            "Olla común Lo Espejo",
+            "Fundación La Cueva de Adulam"
+        ]
+
+    },
+    {
+        "comuna": "Pedro_Aguirre_Cerda",
+        "habitantes": "101.174",
+        "municipalidad": "https://www.pedroaguirrecerda.cl/w15/",
+        "donaciones": [
+            "Unidos Por Villa Sur",
+            "Olla Común La Victoria",
+            "Comedor De Los Pobres Pac",
+            "Fundación Nuestros Hijos"
+        ]
+
+    },
+    {
+        "comuna": "San_Miguel",
+        "habitantes": "107.954",
+        "municipalidad": "https://web.sanmiguel.cl/",
+        "donaciones": [
+            "ONG siempre contigo"
+        ]
+
+    },
+    {
+        "comuna": "San_Ramón",
+        "habitantes": "82.900",
+        "municipalidad": "https://municipalidadsanramon.cl/",
+        "donaciones": [
+            "ADRA Chile"
+        ]
+
+    },
+    {
+        "comuna": "La_Granja",
+        "habitantes": "116.571",
+        "municipalidad": "https://www.municipalidadlagranja.cl/",
+        "donaciones": [
+            "Parroquia San Pedro y San Pablo"
+        ]
+
+    },
+    {
+        "comuna": "San_Joaquín",
+        "habitantes": "94.492",
+        "municipalidad": "https://sanjoaquin.cl/",
+        "donaciones": [
+            "Corporación La Esperanza"
+        ]
+
+    },
+    {
+        "comuna": "La_Pintana",
+        "habitantes": "177.335",
+        "municipalidad": "https://www.pintana.cl/",
+        "donaciones": [
+            "Büs Bien"
+        ]
+
+    },
+    {
+        "comuna": "Providencia",
+        "habitantes": "142.079",
+        "municipalidad": "https://providencia.cl/provi/site/edic/base/port/inicio.html",
+        "donaciones": [
+            "Conin"
+        ]
+
+    },
+    {
+        "comuna": "Ñuñoa",
+        "habitantes": "208.237",
+        "municipalidad": "https://nunoa.cl/",
+        "donaciones": [
+            "Corporación Prodeni",
+            "Niño Jesús",
+            "Te lo Regalo Mamá"
+        ]
+
+    },
+    {
+        "comuna": "La_Reina",
+        "habitantes": "92.787",
+        "municipalidad": "https://www.lareina.cl/",
+        "donaciones": [
+            "Comunidad terapeutica centra",
+            "Menos Brecha"
+        ]
+
+    },
+    {
+        "comuna": "Macul",
+        "habitantes": "116.534",
+        "municipalidad": "https://www.munimacul.cl/",
+        "donaciones": [
+            "El Atardecer",
+            "Sagrados Corazones"
+        ]
+
+    },
+    {
+        "comuna": "Puente_Alto",
+        "habitantes": "568.106",
+        "municipalidad": "https://www.mpuentealto.cl/",
+        "donaciones": [
+            "Abrazo Fraterno",
+            "Buen Pastor Contemplativas",
+            "Buen Pastor Nazareth",
+            "Fundación Dar"
+        ]
+
+    },
+    {
+        "comuna": "Pirque",
+        "habitantes": "26.521",
+        "municipalidad": "https://www.pirque.cl/",
+        "donaciones": [
+            "Trece Chile Ong"
+        ]
+
+    },
+    {
+        "comuna": "San_José_de_Maipo",
+        "habitantes": "18.189",
+        "municipalidad": "https://www.sanjosedemaipo.cl/",
+        "donaciones": [
+            "HHogar Santos Arcangeles Miguel, Gabriel y Rafael"
+        ]
+
+    },
+    {
+        "comuna": "La_Florida",
+        "habitantes": "366.916",
+        "municipalidad": "https://www.laflorida.cl/sitio/",
+        "donaciones": [
+            "ONG vida digna"
+        ]
+
+    },
+    {
+        "comuna": "Peñalolén",
+        "habitantes": "241.599",
+        "municipalidad": "https://www.penalolen.cl/inicio-v3/",
+        "donaciones": [
+            "La Cordillera"
+        ]
+
+    },
+    {
+        "comuna": "Las_Condes",
+        "habitantes": "294.838",
+        "municipalidad": "https://www.lascondes.cl/",
+        "donaciones": [
+            "ONG Casa de Acogida la Esperanza"
+        ]
+
+    },
+    {
+        "comuna": "Vitacura",
+        "habitantes": "85.384",
+        "municipalidad": "https://vitacura.cl/",
+        "donaciones": [
+            "ONG Fraternum"
+        ]
+
+    },
+    {
+        "comuna": "Lo_Barnechea",
+        "habitantes": "105.833",
+        "municipalidad": "https://lobarnechea.cl/",
+        "donaciones": [
+            "Corporacion De Desarrollo Para Ninos En Riesgo Social",
+            "Fundación DeBuenaFe"
+        ]
+
+    },
+    {
+        "comuna": "Huechuraba",
+        "habitantes": "98.671",
+        "municipalidad": "https://www.huechuraba.cl/",
+        "donaciones": [
+            "Ofosh"
+        ]
+
+    }
+
+]
