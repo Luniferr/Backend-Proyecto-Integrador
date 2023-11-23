@@ -2,43 +2,85 @@ const mongoose = require("mongoose");
 
 const { Schema } = mongoose;
 
-
 const volunteerSchema = new Schema({
   name: {
     type: String,
-    require: true,
+    required: true,
+    unique: false,
   },
   rut: {
     type: String,
-    require: true,
+    required: true,
     unique: true,
   },
   age: {
-    type: String,
-    require: true,
+    type: Number,
+    required: true,
+    unique: false,
   },
   email: {
     type: String,
-    require: true,
+    required: true,
+    unique: false,
   },
   phone: {
-    type: String,
-    require: true,
+    type: Number,
+    required: true,
+    unique: false,
   },
   ocupation: {
     type: String,
-    require: true,
+    required: true,
+    enum: ["Estudiante", "Trabajador", "Jubilado", "Otro"],
+    unique: false,
   },
   residence: {
     type: String,
-    require: true,
+    required: true,
+    enum: [
+      "Santiago",
+      "Providencia",
+      "LasCondes",
+      "LaReina",
+      "Ñuñoa",
+      "Macul",
+      "Peñalolen",
+      "LaFlorida",
+      "PuenteAlto",
+      "Maipu",
+      "Renca",
+      "Quilicura",
+      "Huechuraba",
+      "Recoleta",
+      "Independencia",
+      "Conchalí",
+      "Vitacura",
+      "LoBarnechea",
+      "Peñaflor",
+      "Pudahuel",
+      "CerroNavia",
+      "QuintaNormal",
+      "LoPrado",
+      "EstacionCentral",
+      "LoEspejo",
+      "PedroAguirre",
+      "SanMiguel",
+      "SanJoaquin",
+      "LaGranja",
+      "LaCisterna",
+      "ElBosque",
+      "SanBernardo",
+      "LaPintana",
+      "Colina",
+    ],
+    unique: false,
   },
   motivation: {
     type: String,
-    require: true,
+    required: true,
+    unique: false,
   },
 });
-
 
 const Volunteer = mongoose.model("Volunteer", volunteerSchema);
 
